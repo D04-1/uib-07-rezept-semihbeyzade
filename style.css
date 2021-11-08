@@ -1,1 +1,51 @@
+#demo{
+    background-color: aqua;
+}
 
+.dem{
+
+    border: 2px 
+    solid #d5d5d5;
+
+    background: #e4f7e4;
+
+}
+
+.list{
+    background: lightblue;
+    list-style-type: square;
+}
+
+.nlist{
+    background: lightgreen;
+    list-style-type: circle;
+}
+
+.blist{
+    background: orange;
+    list-style-type: disc;
+}
+
+ol{
+    list-style-type: lower-roman;
+}
+
+.color{
+    color: red;
+}
+
+.color:hover{
+    color: green;
+}
+
+.farbe{
+    color: blue
+}
+
+.farbe:hover{
+    color: yellow
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
